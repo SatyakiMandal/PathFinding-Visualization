@@ -7,6 +7,8 @@
 * Since it's an unweighted graph, Bthere's no real difference between how the program works for BFS and DFS
 
 
+## Keyboard guide
+
 ```
 #first double click =  start point
 #second double click = end point
