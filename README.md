@@ -23,3 +23,5 @@ press b for BFS
 Pathfinding algorithms are usually an attempt to solve the shortest path problem in graph theory. They try to find the best path given a starting point and ending point clearing all the obstacles. In graph theory, the shortest path problem is the problem of finding a path between two vertices (or nodes) in a graph such that the sum of the weights of its constituent edges is minimized. It is used in real world applications in maps, delivery and pooling services.
 
 
+## Future development
+- deploy different and better algorithm's like best first search, etc
